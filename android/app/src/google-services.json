@@ -1,0 +1,40 @@
+
+{
+  "project_info": {
+    "project_number": "936685074887",
+    "project_id": "onlyspeech-be913",
+    "storage_bucket": "onlyspeech-be913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936685074887:android:6d4022a066c4d4d5af81e2",
+        "android_client_info": {
+          "package_name": "com.example.tts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936685074887-6qpbnfamnr85knm8dti2o81drh5pg5kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8l5-5gWXAOI5PLAoOdZUEDJ26DwMd3Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936685074887-6qpbnfamnr85knm8dti2o81drh5pg5kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
